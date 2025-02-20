@@ -1,1 +1,1 @@
-# Algoritmos-y-programaci-n-JDDS
+# Algoritmos-y-programaci-n
